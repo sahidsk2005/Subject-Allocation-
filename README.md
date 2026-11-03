@@ -45,7 +45,7 @@ The system allows users to manage student information and allocate available sub
 Subject-Allocation-System/
 │
 ├── subject_allocation.py
-├── README.md
+├── subject_allocation.db
 └── LICENSE
 ```
 
