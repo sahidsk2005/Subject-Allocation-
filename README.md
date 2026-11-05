@@ -153,7 +153,7 @@ On startup, the program inserts a small sample set of students and subjects. Exi
 
 ### 5. Automatic Subject Allocation
 
-<img width="1920" height="1080" alt="Screenshot (588)" src="https://github.com/user-attachments/assets/8277d104-b577-4b30-94fa-f597a904392f" />
+<img width="1920" height="1080" alt="Screenshot (589)" src="https://github.com/user-attachments/assets/7733bc48-e55e-4bfc-8026-1bd1e777dd42" />
 
 
 ### 6. Reports
