@@ -12,7 +12,7 @@ A desktop-based **University Subject Allocation System** developed as an academi
 | Programming Language | Python |
 | GUI Framework | Tkinter |
 | Database | SQLite |
-| Developers | SAHID SK, PRANTIKA GHOSH, PRALAY KUMAR MONDAL |
+| Developers | Sahid Sk, Prantika Ghosh, Pralay Kumar Mondal |
 
 ## Overview
 
