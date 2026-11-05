@@ -165,7 +165,7 @@ On startup, the program inserts a small sample set of students and subjects. Exi
 
 
 
-> If a screenshot is not available yet, add it later using the exact filename shown above. GitHub will display the image once the file has been committed to the repository at that path.
+
 
 ## Future Improvements
 
