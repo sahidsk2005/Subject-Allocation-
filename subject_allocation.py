@@ -516,6 +516,7 @@ class SubjectAllocationSystem:
             self.semester_entry.delete(0, tk.END)
 
             self.load_students()
+            self.load_preference_students()
             self.refresh_dashboard()
 
         except sqlite3.IntegrityError:
@@ -799,6 +800,7 @@ class SubjectAllocationSystem:
                 entry.delete(0, tk.END)
 
             self.load_subjects()
+            self.load_preference_subjects()
             self.refresh_dashboard()
 
         except sqlite3.IntegrityError:
