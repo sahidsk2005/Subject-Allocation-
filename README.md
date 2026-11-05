@@ -130,7 +130,6 @@ On startup, the program inserts a small sample set of students and subjects. Exi
 
 ## Screenshots
 
-Add screenshots of the running application to `assets/screenshots/`. You can capture them after launching the program and navigating through each tab.
 
 ### 1. Dashboard
 <img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/17e51098-2c36-44d1-b102-ca9855aaa2f2" />
