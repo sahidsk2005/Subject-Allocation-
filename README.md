@@ -55,15 +55,6 @@ University-Subject-Allocation-System/
 ├── subject_allocation.py
 ├── subject_allocation.db
 ├── README.md
-│
-└── assets/
-    └── screenshots/
-        ├── dashboard.png
-        ├── students.png
-        ├── subjects.png
-        ├── preferences.png
-        ├── allocation.png
-        └── reports.png
 ```
 
 **Note:** The screenshot files shown above are suggested filenames. Add your own screenshots to that folder, or change the image paths in this README to match your filenames. The database file is created automatically when the application starts if it does not already exist.
