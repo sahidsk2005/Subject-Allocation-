@@ -57,8 +57,6 @@ University-Subject-Allocation-System/
 ├── README.md
 ```
 
-**Note:** The screenshot files shown above are suggested filenames. Add your own screenshots to that folder, or change the image paths in this README to match your filenames. The database file is created automatically when the application starts if it does not already exist.
-
 ## Requirements
 
 - Python 3 installed on your computer.
@@ -135,28 +133,38 @@ On startup, the program inserts a small sample set of students and subjects. Exi
 Add screenshots of the running application to `assets/screenshots/`. You can capture them after launching the program and navigating through each tab.
 
 ### 1. Dashboard
+<img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/17e51098-2c36-44d1-b102-ca9855aaa2f2" />
 
-![Dashboard](assets/screenshots/dashboard.png)
+
 
 ### 2. Student Management
 
-![Student Management](assets/screenshots/students.png)
+<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/3a668268-c976-4b95-bb44-07dee567b6f9" />
+
 
 ### 3. Subject Management
 
-![Subject Management](assets/screenshots/subjects.png)
+<img width="1920" height="1080" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/b2d0942e-255c-43d4-be39-fcb0005b836b" />
+
 
 ### 4. Student Preferences
 
-![Student Preferences](assets/screenshots/preferences.png)
+<img width="1920" height="1080" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/bf99b8f1-10bc-45e0-a3da-d4196bcf1808" />
+
 
 ### 5. Automatic Subject Allocation
 
-![Automatic Allocation](assets/screenshots/allocation.png)
+<img width="1920" height="1080" alt="Screenshot (588)" src="https://github.com/user-attachments/assets/8277d104-b577-4b30-94fa-f597a904392f" />
+
 
 ### 6. Reports
 
-![Reports](assets/screenshots/reports.png)
+<img width="1920" height="1080" alt="Screenshot (583)" src="https://github.com/user-attachments/assets/44fedc5e-6130-4da4-badd-2865ba6a9a0b" />
+<img width="1920" height="1080" alt="Screenshot (582)" src="https://github.com/user-attachments/assets/a4da3b8e-d6c5-4153-aa95-a830ae27fe7b" />
+<img width="1920" height="1080" alt="Screenshot (581)" src="https://github.com/user-attachments/assets/9ad9a4f8-f953-4392-9fe4-033da5366688" />
+
+
+
 
 > If a screenshot is not available yet, add it later using the exact filename shown above. GitHub will display the image once the file has been committed to the repository at that path.
 
@@ -181,6 +189,9 @@ This project was developed by:
 - **PRALAY KUMAR MONDAL**
 
 **Institution:** Brainware University
+**Faculty:** Pranabesh Sengupta
+**Designation:** Assistant Professor
+**Department:** Department of Computational Sciences
 
 ---
 
